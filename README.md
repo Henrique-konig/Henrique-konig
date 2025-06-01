@@ -1,4 +1,5 @@
 👋 Henrique Gustavo König
+
 Aprendiz de programação, explorando o mundo do desenvolvimento web e sempre buscando evoluir como desenvolvedor.
 
 👨‍💻 Sobre mim
