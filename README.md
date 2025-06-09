@@ -52,12 +52,6 @@
 
 ---
 
-## 🐍 Snake Contribution Graph
-
-![snake animation](https://github.com/Henrique-konig/Henrique-konig/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🏆 Conquistas & Trophies
 
 <p align="center">
