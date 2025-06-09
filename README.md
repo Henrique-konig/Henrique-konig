@@ -79,7 +79,7 @@
 ## ✉️ Contato
 
 <p align="center">
-  <a href="mailto:henrique.gustavo.konig@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="henrique_konig@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/henrique-konig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
