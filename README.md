@@ -55,7 +55,11 @@
 ## 🐍 Snake Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Henrique-konig/Henrique-konig/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique-konig/Henrique-konig/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique-konig/Henrique-konig/output/github-contribution-grid-snake.svg" />
+    <img alt="snake gif" src="https://raw.githubusercontent.com/Henrique-konig/Henrique-konig/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -79,7 +83,7 @@
 ## ✉️ Contato
 
 <p align="center">
-  <a href="henrique_konig@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:henrique_konig@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/henrique-konig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
