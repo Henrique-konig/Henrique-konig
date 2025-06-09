@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Olá%2C+eu+sou+o+Henrique+Gustavo+König!;Bem-vindo+ao+meu+perfil+no+GitHub!;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+Gustavo+K%C3%B6nig!;Bem-vindo+ao+meu+perfil+no+GitHub!;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -54,13 +54,7 @@
 
 ## 🐍 Snake Contribution Graph
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique-konig/Henrique-konig/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique-konig/Henrique-konig/output/github-contribution-grid-snake.svg" />
-    <img alt="snake gif" src="https://raw.githubusercontent.com/Henrique-konig/Henrique-konig/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+![snake animation](https://github.com/Henrique-konig/Henrique-konig/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
