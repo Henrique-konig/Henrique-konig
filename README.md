@@ -7,18 +7,19 @@
 </p>
 
 <p align="center">
-  Aprendiz de programação apaixonado por tecnologia.<br/>
-  Sempre explorando o desenvolvimento web e automações em Python 🚀
+  Desenvolvedor apaixonado por tecnologia, inovação e automações inteligentes.
+  <br/>Explorador fullstack com foco em performance, experiência do usuário e backend robusto.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-- 🔭 **Foco atual:** HTML • CSS • JavaScript • React • Next.js  
-- 🌱 **Aprendendo:** Python para automações, boas práticas de Git e CI/CD  
-- 💡 **Interesses:** Design responsivo, performance web, Data Engineering com Anaconda e MySQL  
-- 🤝 **Aberto a:** Colaborações, feedbacks e novos desafios  
-- 🎮 Também curto games, cultura digital e café ☕  
+- 🔭 **Foco atual:** HTML • CSS • JavaScript • React • Next.js • Java  
+- 🌱 **Aprimorando:** Python para automações, scraping e análise de dados com Anaconda  
+- 🧠 **Estudando:** Estrutura de dados, POO, engenharia de software e DevOps  
+- 💾 **Bancos de Dados:** MySQL, SQLite e fundamentos de PostgreSQL  
+- ⚙️ **Ferramentas:** Git, GitHub Actions, VS Code, CLI, Anaconda  
+- 🤝 **Colaborativo, curioso e sempre disposto a aprender.**
 
 ---
 
@@ -51,11 +52,27 @@
 
 ---
 
+## 🐍 Snake Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Henrique-konig/Henrique-konig/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
+---
+
 ## 🏆 Conquistas & Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Henrique-konig&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 </p>
+
+---
+
+## 📁 Repositórios em Destaque
+
+- 📚 [**Gestor Escolar**](https://github.com/Henrique-konig/sistema-escolar) — Sistema de gestão acadêmica com POO em Python e MySQL
+- 🤖 [**Automatizador Web**](https://github.com/Henrique-konig/automacoes-python) — Scripts em Python para automatizar tarefas do dia a dia
+- 🌐 [**Portfólio Web**](https://github.com/Henrique-konig/portfolio) — Página pessoal com HTML, CSS e React
 
 ---
 
