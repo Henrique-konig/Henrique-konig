@@ -64,13 +64,17 @@
 ### 📊 Stats & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Henrique-konig&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Henrique-konig&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-konig&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-konig&layout=compact&theme=radical" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Henrique-konig&show_icons=true&theme=radical" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-konig&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-konig&theme=radical" alt="Streak" />
+</p>
 
 ---
 
