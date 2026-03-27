@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Henrique+Gustavo+K%C3%B6nig!;Full+Stack+Developer;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Henrique+Gustavo+K%C3%B6nig!;Full+Stack+Developer;Turning+Code+into+Solutions;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,18 +7,20 @@
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer passionate about automation and software architecture.</strong><br>
-  Focused on building efficient, scalable solutions with a premium user experience.
+  <strong>Full Stack Developer | Problem Solver | Automation Enthusiast</strong><br>
+  Dedicated to building high-performance, scalable applications with a focus on clean code and seamless user experiences. 
+  Highly motivated by complex challenges and the continuous evolution of the tech landscape.
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Professional Profile
 
-- 🔭 **Currently working with:** React, Next.js, Java, and the JavaScript Ecosystem.
-- 🌱 **Learning & Improving:** Python for Data Analysis, Web Scraping, and Automations via Anaconda.
-- 🧠 **Interests:** Software Engineering, Design Patterns (OOP), and DevOps Culture.
-- 🤝 **Open to:** Open-source projects and challenging collaborations.
+* 🔥 **Dedicated & Results-Driven:** I thrive in high-pressure environments and am always ready to tackle complex challenges that push my technical boundaries.
+* 💡 **Growth Mindset:** Deeply motivated by the art of programming, I spend my time refining architecture and exploring modern frameworks to deliver top-tier software.
+* 🔭 **Current Focus:** Architecting robust solutions with **React**, **Next.js**, and **Java**, while integrating the efficiency of the JavaScript ecosystem.
+* 🌱 **Data-Driven:** Leveraging **Python** for advanced Web Scraping, Data Analysis, and intelligent workflow automations.
+* 🧠 **Engineering Excellence:** Focused on **Object-Oriented Programming (OOP)**, Design Patterns, and implementing **DevOps** best practices for reliable deployments.
 
 ---
 
@@ -31,6 +33,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 #### ⚙️ Back-end & Scripting
@@ -69,10 +72,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-konig&layout=compact&theme=radical" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-konig&theme=radical" alt="streak" />
-</p>
-
 ---
 
 ### 📁 Featured Projects
@@ -83,7 +82,7 @@
 
 ---
 
-### 📫 Reach me at
+### 📫 Connect with me
 
 <p align="left">
   <a href="mailto:henrique_konig@estudante.sesisenai.org.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
