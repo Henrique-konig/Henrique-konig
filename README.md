@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+Gustavo+K%C3%B6nig!;Desenvolvedor+Full+Stack;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Henrique+Gustavo+K%C3%B6nig!;Full+Stack+Developer;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,18 +7,18 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack apaixonado por automação e arquitetura de software.</strong><br>
-  Focado em criar soluções eficientes, escaláveis e com excelente experiência de usuário.
+  <strong>Full Stack Developer passionate about automation and software architecture.</strong><br>
+  Focused on building efficient, scalable solutions with a premium user experience.
 </p>
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-- 🔭 **Atuando com:** React, Next.js, Java e Ecossistema JavaScript.
-- 🌱 **Evoluindo em:** Python para Data Analysis, Web Scraping e Automações com Anaconda.
-- 🧠 **Interesses:** Engenharia de Software, Design Patterns (POO) e Cultura DevOps.
-- 🤝 **Disponível para:** Projetos open-source e colaborações desafiadoras.
+- 🔭 **Currently working with:** React, Next.js, Java, and the JavaScript Ecosystem.
+- 🌱 **Learning & Improving:** Python for Data Analysis, Web Scraping, and Automations via Anaconda.
+- 🧠 **Interests:** Software Engineering, Design Patterns (OOP), and DevOps Culture.
+- 🤝 **Open to:** Open-source projects and challenging collaborations.
 
 ---
 
@@ -58,14 +58,14 @@
 
 ---
 
-### 📊 Estatísticas e Conquistas
+### 📊 Stats & Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Henrique-konig&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-konig&show_icons=true&theme=radical&locale=pt_BR" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-konig&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-konig&layout=compact&theme=radical" />
 </div>
 
@@ -75,15 +75,15 @@
 
 ---
 
-### 📁 Projetos em Destaque
+### 📁 Featured Projects
 
-* 🚀 [**Gestor Escolar**](https://github.com/Henrique-konig/sistema-escolar) — Sistema de gestão acadêmica robusto utilizando POO em Python e MySQL.
-* 🤖 [**Automatizador Web**](https://github.com/Henrique-konig/automacoes-python) — Conjunto de scripts focados em produtividade e coleta de dados.
-* 🌐 [**Portfólio Profissional**](https://github.com/Henrique-konig/portfolio) — Desenvolvido com React e focado em performance mobile.
+* 🚀 [**School Manager**](https://github.com/Henrique-konig/sistema-escolar) — A robust academic management system using OOP principles with Python and MySQL.
+* 🤖 [**Web Automator**](https://github.com/Henrique-konig/automacoes-python) — A collection of scripts focused on productivity and automated data collection.
+* 🌐 [**Professional Portfolio**](https://github.com/Henrique-konig/portfolio) — Developed with React, optimized for mobile performance and SEO.
 
 ---
 
-### 📫 Entre em contato
+### 📫 Reach me at
 
 <p align="left">
   <a href="mailto:henrique_konig@estudante.sesisenai.org.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
