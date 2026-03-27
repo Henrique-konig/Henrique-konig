@@ -68,12 +68,12 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Henrique-konig&show_icons=true&theme=radical" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Henrique-konig&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-konig&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-konig&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-konig&theme=radical" alt="Contribution Streak" />
 </p>
 
 ---
