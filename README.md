@@ -80,7 +80,7 @@
 
 ### 📁 Featured Projects
 
-* 🌡️ [**Physics Simulator**](https://github.com/Henrique-konig/Projeto-simulador-fisica) — A high-precision thermal conversion engine built to calculate and translate data between Celsius, Fahrenheit, and Kelvin scales.
+* 🌤️ [**Atmospherix — Weather Forecast**](https://github.com/Henrique-konig/Atmosphere-Analysis-Atmospherix) — A detailed, elegant weather app inspired by the iPhone Weather app: current conditions, hourly and 10-day forecasts, rain map, UV, wind and humidity, powered by Open-Meteo and installable as a PWA.
 * 🏛️ [**Church Visit System**](https://github.com/Henrique-konig/PROJETO-IGREJA-VISITA) — A specialized management tool designed to track and organize institutional visits, focusing on data integrity and user flow.
 * 🌐 [**Professional Portfolio**](https://github.com/Henrique-konig/portfolio) — A high-performance personal landing page built with React, optimized for mobile responsiveness and modern SEO standards.
 
