@@ -81,8 +81,8 @@
 ### 📁 Featured Projects
 
 * 🌤️ [**Atmospherix — Weather Forecast**](https://github.com/Henrique-konig/Atmosphere-Analysis-Atmospherix) — A detailed, elegant weather app inspired by the iPhone Weather app: current conditions, hourly and 10-day forecasts, rain map, UV, wind and humidity, powered by Open-Meteo and installable as a PWA.
-* 🏛️ [**Church Visit System**](https://github.com/Henrique-konig/PROJETO-IGREJA-VISITA) — A specialized management tool designed to track and organize institutional visits, focusing on data integrity and user flow.
-* 🌐 [**Professional Portfolio**](https://github.com/Henrique-konig/portfolio) — A high-performance personal landing page built with React, optimized for mobile responsiveness and modern SEO standards.
+* 💰 [**AportFy**](https://github.com/Henrique-konig/AportFy) — A personal and couples finance dashboard built with vanilla JavaScript, Firebase, Tailwind CSS and Chart.js: income, expenses, goals, budgets, accounts and cards, plus an investment portfolio with quotes, dividends and portfolio health analysis.
+* 📅 [**Online Scheduling (Agendamento Online)**](https://github.com/Henrique-konig/Agendamento-Online) — A professional page with online booking for freelancers such as barbers, nutritionists and electricians: schedule and client dashboard, email/WhatsApp reminders, Google Calendar sync and optional Pix payments. Built with Next.js, TypeScript, Tailwind CSS, Prisma and Postgres.
 
 ---
 
