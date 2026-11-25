@@ -1,98 +1,86 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Henrique+Gustavo+K%C3%B6nig!;Full+Stack+Developer;Turning+Code+into+Solutions;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
+<img src="./assets/header.svg" width="100%" alt="Henrique König — Software sob medida, do banco de dados à interface." />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
+  <a href="https://henriquekonig-dev.vercel.app"><img src="https://img.shields.io/badge/Portfólio-131315?style=flat-square&logo=vercel&logoColor=d4b483" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/henrique-gustavo-konig-92932b310/"><img src="https://img.shields.io/badge/LinkedIn-131315?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:henriquegustavokonig@gmail.com"><img src="https://img.shields.io/badge/E--mail-131315?style=flat-square&logo=gmail&logoColor=d4b483" alt="E-mail" /></a>
 </p>
+
+<br />
+
+<img src="./assets/sobre.svg" width="100%" alt="Quem sou" />
+
+Sou desenvolvedor full stack em Santa Catarina, Brasil. Crio **aplicações web, sistemas internos e automações** para empresas e profissionais que precisam de algo que funcione de verdade: rápido, seguro e fácil de manter.
+
+- **Experiência:** Jovem Aprendiz em Desenvolvimento de Sistemas no Grupo Malwee (2025–2026), com integrações, automações e scripts para SAP GUI
+- **Formação:** Engenharia de Software na Estácio (2026–2029) e Técnico em Desenvolvimento de Sistemas no SENAI
+- **Idiomas:** português, inglês e espanhol
+
+<br />
+
+<img src="./assets/projetos.svg" width="100%" alt="Trabalhos em destaque" />
+
+| Projeto | O que é | Stack |
+| :-- | :-- | :-- |
+| **[Agenda Autônomo](https://github.com/Henrique-konig/Agendamento-Online)** | Agendamento online para autônomos, com lembretes, Google Agenda e Pix | Next.js · TypeScript · Prisma · PostgreSQL |
+| **[AportFy](https://github.com/Henrique-konig/AportFy)**<br />[ver online ↗](https://aportfy.vercel.app) | Finanças pessoais e de casal com carteira de investimentos em tempo real | JavaScript · Firebase · Tailwind · Chart.js |
+| **[Atmospherix](https://github.com/Henrique-konig/Atmosphere-Analysis-Atmospherix)**<br />[ver online ↗](https://atmosphere-analysis-atmospherix.vercel.app) | Previsão do tempo detalhada, instalável e funcional offline | Next.js · React · TypeScript · Leaflet |
+
+<br />
+
+<img src="./assets/stack.svg" width="100%" alt="Ferramentas do dia a dia" />
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-131315?style=flat-square&logo=html5&logoColor=d4b483" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-131315?style=flat-square&logo=css&logoColor=d4b483" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-131315?style=flat-square&logo=javascript&logoColor=d4b483" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-131315?style=flat-square&logo=typescript&logoColor=d4b483" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-131315?style=flat-square&logo=react&logoColor=d4b483" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-131315?style=flat-square&logo=nextdotjs&logoColor=d4b483" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-131315?style=flat-square&logo=tailwindcss&logoColor=d4b483" alt="Tailwind CSS" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-131315?style=flat-square&logo=nodedotjs&logoColor=d4b483" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-131315?style=flat-square&logo=express&logoColor=d4b483" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-131315?style=flat-square&logo=python&logoColor=d4b483" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-131315?style=flat-square&logo=openjdk&logoColor=d4b483" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-131315?style=flat-square&logo=springboot&logoColor=d4b483" alt="Spring Boot" />
+</p>
+
+**Dados**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-131315?style=flat-square&logo=postgresql&logoColor=d4b483" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-131315?style=flat-square&logo=mysql&logoColor=d4b483" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-131315?style=flat-square&logo=sqlite&logoColor=d4b483" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Prisma-131315?style=flat-square&logo=prisma&logoColor=d4b483" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Firebase-131315?style=flat-square&logo=firebase&logoColor=d4b483" alt="Firebase" />
+</p>
+
+**Infra e automação**
+<p>
+  <img src="https://img.shields.io/badge/Git-131315?style=flat-square&logo=git&logoColor=d4b483" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-131315?style=flat-square&logo=githubactions&logoColor=d4b483" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-131315?style=flat-square&logo=docker&logoColor=d4b483" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-131315?style=flat-square&logo=vercel&logoColor=d4b483" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Linux-131315?style=flat-square&logo=linux&logoColor=d4b483" alt="Linux" />
+  <img src="https://img.shields.io/badge/n8n-131315?style=flat-square&logo=n8n&logoColor=d4b483" alt="n8n" />
+  <img src="https://img.shields.io/badge/SAP_GUI_Scripting-131315?style=flat-square&logo=sap&logoColor=d4b483" alt="SAP GUI Scripting" />
+</p>
+
+**Qualidade**
+<p>
+  <img src="https://img.shields.io/badge/Vitest-131315?style=flat-square&logo=vitest&logoColor=d4b483" alt="Vitest" />
+  <img src="https://img.shields.io/badge/ESLint-131315?style=flat-square&logo=eslint&logoColor=d4b483" alt="ESLint" />
+</p>
+
+<br />
+
+<img src="./assets/contato.svg" width="100%" alt="Tem um projeto em mente?" />
 
 <p align="center">
-  <strong>Full Stack Developer | Problem Solver | Automation Enthusiast</strong><br>
-  Dedicated to building high-performance, scalable applications with a focus on clean code and seamless user experiences. 
-  Highly motivated by complex challenges and the continuous evolution of the tech landscape.
-</p>
-
----
-
-### 🚀 Professional Profile
-
-* 🔥 **Dedicated & Results-Driven:** I thrive in high-pressure environments and am always ready to tackle complex challenges that push my technical boundaries.
-* 💡 **Growth Mindset:** Deeply motivated by the art of programming, I spend my time refining architecture and exploring modern frameworks to deliver top-tier software.
-* 🔭 **Current Focus:** Architecting robust solutions with **React**, **Next.js**, and **Java**, while integrating the efficiency of the JavaScript ecosystem.
-* 🌱 **Data-Driven:** Leveraging **Python** for advanced Web Scraping, Data Analysis, and intelligent workflow automations.
-* 🧠 **Engineering Excellence:** Focused on **Object-Oriented Programming (OOP)**, Design Patterns, and implementing **DevOps** best practices for reliable deployments.
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Front-end
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-#### ⚙️ Back-end & Scripting
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-#### 🗄️ Database
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-#### 🔧 Tools & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📊 Stats & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Henrique-konig&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Henrique-konig&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-konig&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-konig&theme=radical" alt="Contribution Streak" />
-</p>
-
----
-
-### 📁 Featured Projects
-
-* 🌤️ [**Atmospherix — Weather Forecast**](https://github.com/Henrique-konig/Atmosphere-Analysis-Atmospherix) — A detailed, elegant weather app inspired by the iPhone Weather app: current conditions, hourly and 10-day forecasts, rain map, UV, wind and humidity, powered by Open-Meteo and installable as a PWA.
-* 💰 [**AportFy**](https://github.com/Henrique-konig/AportFy) — A personal and couples finance dashboard built with vanilla JavaScript, Firebase, Tailwind CSS and Chart.js: income, expenses, goals, budgets, accounts and cards, plus an investment portfolio with quotes, dividends and portfolio health analysis.
-* 📅 [**Online Scheduling (Agendamento Online)**](https://github.com/Henrique-konig/Agendamento-Online) — A professional page with online booking for freelancers such as barbers, nutritionists and electricians: schedule and client dashboard, email/WhatsApp reminders, Google Calendar sync and optional Pix payments. Built with Next.js, TypeScript, Tailwind CSS, Prisma and Postgres.
-
----
-
-### 📫 Connect with me
-
-<p align="left">
-  <a href="mailto:henriquegustavokonig@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/henrique-gustavo-konig-92932b310?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Henrique-konig&label=Profile+views&color=0e75b6&style=flat" alt="profile views"/>
+  Conte o que você precisa e eu retorno com uma proposta.<br />
+  <a href="mailto:henriquegustavokonig@gmail.com"><strong>henriquegustavokonig@gmail.com</strong></a>
 </p>
